@@ -19,6 +19,9 @@ Zhiniang Peng (@edwardzpeng) of Qihoo 360 Core Security
 
 ## Timeline
 28/12/2018: Vulnerability found
+
 26/01/2019: Technique details upload
+
 26/03/2019: POC upload 
+
 12/02/2020: Published 
