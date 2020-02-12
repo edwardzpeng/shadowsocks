@@ -10,9 +10,9 @@ Details of the attack can be found in the pdf. And a POC can be found in the pyt
 shadowsocks-py, shadowsocoks-go, go-shadowsocks2, shadowsocoks-nodejs
 
 ## Suggestions
-Do not use : shadowsocks-py, shadowsocoks-go, go-shadowsocks2, shadowsocoks-nodejs.
+Do not use : shadowsocks-py, shadowsocoks-go, shadowsocoks-nodejs.
 
-Only Use: shadowsocks-libev, and only use the AEAD ciphers
+Only Use: shadowsocks-libev, go-shadowsocks2 and only use the AEAD ciphers
 
 ## Credit
 Zhiniang Peng (@edwardzpeng) of Qihoo 360 Core Security
