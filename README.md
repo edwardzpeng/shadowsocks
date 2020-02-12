@@ -7,7 +7,7 @@ shadowsocks stream cipher. A passive attacker can easily decrypt all the encrypt
 Details of the attack can be found in the pdf. And a POC can be found in the python code.
 
 ## Vulnerable versions
-shadowsocks-py, shadowsocoks-go, go-shadowsocks2, shadowsocoks-nodejs
+shadowsocks-py, shadowsocoks-go, shadowsocoks-nodejs
 
 ## Suggestions
 Do not use : shadowsocks-py, shadowsocoks-go, shadowsocoks-nodejs.
